@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19238" started-at="2023-01-14T18:46:00 IST" finished-at="2023-01-14T18:46:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19238" started-at="2023-01-14T18:46:00 IST" finished-at="2023-01-14T18:46:19 IST">
+      <class name="com.orange.scripts.loginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.orange.scripts.loginTest@5d11346a]" name="beforeMethod" is-config="true" duration-ms="13041" started-at="2023-01-14T18:46:00 IST" finished-at="2023-01-14T18:46:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:com.orange.scripts.loginTest@5d11346a]" name="validLogin" duration-ms="1852" started-at="2023-01-14T18:46:13 IST" finished-at="2023-01-14T18:46:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.orange.scripts.loginTest@5d11346a]" name="afterMethod" is-config="true" duration-ms="4255" started-at="2023-01-14T18:46:15 IST" finished-at="2023-01-14T18:46:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.orange.scripts.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
